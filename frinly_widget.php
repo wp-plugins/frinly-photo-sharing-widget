@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: Frin.ly - Photo Sharing
-Plugin URI: http://frin.ly/recommend/wordpress/download/
+Plugin URI: http://frin.ly/recommend/wordpress/
 Description: Display photos from your Frin.ly photo album onto your WordPress Blog. Requires cURL to be installed. 
-Version: 2.0
+Version: 1.0
 Author: Joseph Tinsley
 Author URI: http://twitter.com/frinly
 */
