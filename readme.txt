@@ -20,6 +20,9 @@ This widget will display your latest Frinly photos. It adds a sidebar widget whi
 	2). Frin.ly Username (http://frin.ly/username)
 	3). Images displayed (How many images would you like to show)
 
+== Screenshots == 
+http://frin.ly/images/frinly-wordpress-sceenshot.png
+
 == Changelog ==
 = 2.0 =  
   
