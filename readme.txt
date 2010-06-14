@@ -21,14 +21,11 @@ This widget will display your latest Frinly photos. It adds a sidebar widget whi
 	3). Images displayed (How many images would you like to show)
 
 == Screenshots == 
-http://frin.ly/images/frinly-wordpress-sceenshot.png
+<img src="http://frin.ly/images/frinly-wordpress-sceenshot.png">
 
 == Changelog ==
-= 2.0 =  
+= 1.0 =  
   
 * Added user admin control panel  
-  
-= 1.0.1 =  
-  
-* Fixed XML parsing error
+
 
