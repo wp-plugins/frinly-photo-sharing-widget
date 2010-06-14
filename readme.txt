@@ -14,11 +14,13 @@ This widget will display your latest Frinly photos. It adds a sidebar widget whi
 
 == Installation ==
 
-1.  Extract the zip file and just drop the contents in the wp-content/plugins/ directory of your WordPress installation and then activate the Plugin from Plugins page. 
-2.  Set the 3 options that are given. 
-	1). Title (Joe's Photo's), 
-	2). Frin.ly Username (http://frin.ly/username)
-	3). Images displayed (How many images would you like to show)
+1.  Extract the zip file and just drop the contents in the wp-content/plugins/ directory of your WordPress installation and then activate the Plugin from Plugins page.
+
+2.  Set the 3 options that are given.
+
+a). Title (Joe's Photo's), 
+b). Frin.ly Username (http://frin.ly/username)
+c). Images displayed (How many images would you like to show)
 
 == Screenshots == 
 <img src="http://frin.ly/images/frinly-wordpress-sceenshot.png">
