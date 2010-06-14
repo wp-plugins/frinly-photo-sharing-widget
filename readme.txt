@@ -18,12 +18,13 @@ This widget will display your latest Frinly photos. It adds a sidebar widget whi
 
 2.  Set the 3 options that are given.
 
-a). Title (Joe's Photo's), 
-b). Frin.ly Username (http://frin.ly/username)
-c). Images displayed (How many images would you like to show)
+* Title (Joe's Photo's)
+* Frin.ly Username (http://frin.ly/username)
+* Images displayed (How many images would you like to show)
 
 == Screenshots == 
-<img src="http://frin.ly/images/frinly-wordpress-sceenshot.png">
+1. http://frin.ly/images/frinly-wordpress-screenshot.png
+
 
 == Changelog ==
 = 1.0 =  
